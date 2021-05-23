@@ -3,7 +3,7 @@
 # Usage
 
 Create a `headers.txt` file in the build directory and place headers inside before running.
-Run `.\formatter.exe` in the same directory to create a formatted result
+Run the build file `formatter.exe` in the same directory to create a formatted result
 
 # Example
 `headers.txt`
