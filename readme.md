@@ -5,6 +5,8 @@ https://github.com/Imag/net-http-header-converter/releases
 
 # Usage
 Create a `headers.txt` file in the build directory and place headers inside before running.
+
+
 Run the build file `header-formatter.exe` in the same directory to create a formatted result
 
 # Example
